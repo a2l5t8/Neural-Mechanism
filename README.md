@@ -1,7 +1,3 @@
-Sure! Here's a detailed README for the GitHub repository on Spiking Neural Networks with various neural mechanisms:
-
----
-
 # Spiking Neural Network Repository
 
 Welcome to the Spiking Neural Network Repository! This repository focuses on the neural mechanisms, implementation, and analysis of Spiking Neural Networks (SNNs). The implementations leverage the CoNeX and PyMoNNtorch frameworks using PyTorch as the backend.
